@@ -14,10 +14,10 @@ Gradient descent is an optimization algorithm used to find the optimal weights f
 We will begin by simulating the data for this example. Our simulated dataset will contain $$n=10000$$ samples using a linear function defined as:
 
 $$
-f(x_1, x_2, x_3) = ax_1 + bx_2 + cx_3 + \upepsilon
+f(x_1, x_2, x_3) = ax_1 + bx_2 + cx_3 + \varepsilon
 $$ 
 
-Here, $${x_1,x_2,x_3}$$ represent an input vector of size 3 and $$\upepsilon$$ is noise.
+Here, $${x_1,x_2,x_3}$$ represent an input vector of size 3 and $$\varepsilon$$ is noise.
 
 To do this, we will first simulate the coefficients of the model, $$a,b,c$$ by picking 3 random integers between 1 and 10.
  
