@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm interested in regulatory genomics, single-cell, CRISPR, and machine learning. I graduated from the University of Southern California with a B.S. in Biomedical Engineering in 2017. From 2019-2020, I worked as a Fulbright Scholar in Berlin, Germany. I speak English, Mandarin and German. See my [Google scholar](https://scholar.google.com/citations?user=LTBrwvIAAAAJ) for my publications, or download my CV [here](http://127.0.0.1:4000/al-folio/assets/pdf/Resume_Zhou-Jessica.pdf). 
+Hi! I'm interested in regulatory genomics, single-cell, CRISPR, and machine learning. I graduated from the University of Southern California with a B.S. in Biomedical Engineering in 2017. From 2019-2020, I worked as a Fulbright Scholar in Berlin, Germany. I speak English, Mandarin and German. See my [Google scholar](https://scholar.google.com/citations?user=LTBrwvIAAAAJ) for my publications, or download my CV [here](https://zrcjessica.github.io/assets/pdf/Resume_Zhou-Jessica.pdf). 
