@@ -8,14 +8,14 @@
     - name: Languages
       value: English, Mandarin, German
     - name: Contact
-      value: jlz014 [at] eng [dot] ucsd [dot] edu
+      value: jezhou [at] cshl [dot] edu
 
 - title: Education
   type: time_table
   contents:
     - title: PhD, Bioinformatics and Systems Biology
       institution: University of California, San Diego
-      year: 2017-
+      year: 2017-2023
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -33,9 +33,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral researcher
+      institution: Cold Spring Harbor Laboratory
+      year: 2023-
     - title: PhD Candidate
       institution: Salk Institute for Biological Studies & UC San Diego
-      year: 2017-
+      year: 2017-2023
 #      description:
 #        - Description 1.
 #        - Description 2.
