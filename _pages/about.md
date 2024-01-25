@@ -24,4 +24,4 @@ I graduated from the University of Southern California with a B.S. in Biomedical
 
 I speak English, Mandarin and German. 
 
-Refer to my [Google Scholar](https://scholar.google.com/citations?user=LTBrwvIAAAAJ) for my publications, or download my CV [here](https://zrcjessica.github.io/assets/pdf/Resume_Zhou_Jessica.pdf). 
+Refer to my [Google Scholar](https://scholar.google.com/citations?user=LTBrwvIAAAAJ) for my publications, or download my CV [here](https://zrcjessica.github.io/assets/pdf/CV_Zhou_Jessica.pdf). 
