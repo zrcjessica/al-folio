@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Resume_Zhou_Jessica.pdf
+cv_pdf: CV_Zhou_Jessica.pdf
 ---
 
