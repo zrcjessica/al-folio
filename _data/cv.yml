@@ -65,7 +65,9 @@
 - title: Skills
   type: list
   contents:
-    - Python, R, bash, HPC, Snakemake, machine learning, statistical modeling, optimization, neural networks, PyTorch, Tensorflow, git
+    - Programming languages: Python, R, bash, MATLAB, SQL 
+    - Machine learning: neural networks, deep learning, uncertainty quantification, trustworthy AI, explainable AI, supervised and unsupervised learning, representation learning, statistical modeling, NLP, LLMs, interpretability
+    - Tools: TensorFlow, PyTorch, scikit-learn, scipy, numpy, pandas, git, distributed environments, Azure, AWS
 #    - Python
 #    - R
 #    - bash
