@@ -65,18 +65,33 @@
 - title: Skills
   type: list
   contents:
-    - Python, R, bash, MATLAB, SQL, neural networks, deep learning, uncertainty quantification, trustworthy AI, explainable AI, supervised and unsupervised learning, representation learning, statistical modeling, NLP, LLMs, interpretability, TensorFlow, PyTorch, scikit-learn, scipy, numpy, pandas, git, distributed environments, Azure, AWS
-#    - Python
-#    - R
-#    - bash
-#    - HPC
-#    - Snakemake
-#    - Machine learning
-#    - Statistical modeling
-#    - Optimization
-#    - Neural networks
-#    - PyTorch/Tensorflow
-#    - git
+    - Python
+    - R
+    - SQL
+    - bash
+    - MATLAB
+    - Tensorflow
+    - PyTorch
+    - scipy
+    - numpy
+    - pandas
+    - sklearn
+    - neural networks
+    - deep learning
+    - machine learning 
+    - uncertainty quantification
+    - trustworthy AI
+    - explainable AI
+    - supervised and unsupervised learning
+    - representation learning
+    - transfer learning
+    - statistical modeling
+    - NLP and LLMs
+    - git
+    - distributed environments
+    - Azure, 
+    - AWS
+
     
 #- title: Open Source Projects
 #  type: time_table

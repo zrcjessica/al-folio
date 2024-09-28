@@ -64,7 +64,7 @@ Gradient descent is an optimization method that is popularly used in machine lea
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/gradient-descent.jpeg" class="img-fluid" width=600 %}
+        {% include figure.liquid path="assets/img/gradient_descent/gradient-descent.jpeg" class="img-fluid" width=600 %}
     </div>
 </div>
 [Image source](https://saugatbhattarai.com.np/what-is-gradient-descent-in-machine-learning/)
@@ -171,7 +171,7 @@ Here, let's define the functions we'll use for calculating $$\hat{y}_j$$ and MSE
 The learning rate is a small value that determines how far along the curve we move to update the weights. It's important to pick the right learning rate - a large learning rate can result in overshotting the optimum value, while a small learning rate will make it take much longer for the model to converge on the optimum. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/learning_rate.jpeg" class="img-fluid" width=600 %}
+        {% include figure.liquid path="assets/img/gradient_descent/learning_rate.jpeg" class="img-fluid" width=600 %}
     </div>
 </div>
 [Image source](https://saugatbhattarai.com.np/what-is-gradient-descent-in-machine-learning/)
@@ -266,7 +266,7 @@ You should see something like this:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/mse_bgd.png" class="img-fluid" width=400 %}
+        {% include figure.liquid path="assets/img/gradient_descent/mse_bgd.png" class="img-fluid" width=400 %}
     </div>
 </div>
 
@@ -286,7 +286,7 @@ You should see something like this:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/weights_bgd.png" class="img-fluid" width=400 %}
+        {% include figure.liquid path="assets/img/gradient_descent/weights_bgd.png" class="img-fluid" width=400 %}
     </div>
 </div>
 
@@ -383,7 +383,7 @@ You should see something like this:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/avg_mse_sgd.png" class="img-fluid" width=400 %}
+        {% include figure.liquid path="assets/img/gradient_descent/avg_mse_sgd.png" class="img-fluid" width=400 %}
     </div>
 </div>
 
@@ -404,7 +404,7 @@ You should see something like this:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/weights_sgd.png" class="img-fluid" width=400 %}
+        {% include figure.liquid path="assets/img/gradient_descent/weights_sgd.png" class="img-fluid" width=400 %}
     </div>
 </div>
 
@@ -509,7 +509,7 @@ Now we'll plot the average MSE at each epoch:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/mini_batch_mse.png" class="img-fluid" width=400 %}
+        {% include figure.liquid path="assets/img/gradient_descent/mini_batch_mse.png" class="img-fluid" width=400 %}
     </div>
 </div>
 
@@ -527,7 +527,7 @@ And how the weights changed after each epoch:
 {% endhighlight %} 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gradient_descent/mini_batch_weights.png" class="img-fluid" width=400 %}
+        {% include figure.liquid path="assets/img/gradient_descent/mini_batch_weights.png" class="img-fluid" width=400 %}
     </div>
 </div>
 

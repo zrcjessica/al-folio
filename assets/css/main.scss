@@ -5,11 +5,37 @@
 
 // Dimensions
 $max-content-width: {{ site.max_width }};
+// .img-responsive {
+//   max-width: 80%;
+//   height: auto;
+//   text-align: center; 
+//   margin-bottom: 20px;
+//   // margin-top:50%
+// }
+.image-container {
+  text-align: center; /* Centers inline elements like images */
+  margin: 20px 0; /* Optional: adds space above and below the image */
+}
+
+.img-responsive {
+  max-width: 80%; /* or whatever width you prefer */
+  height: auto; /* Maintains aspect ratio */
+}
 
 @import
   "variables",
   "themes",
   "layout",
   "base",
-  "distill"
+  "distill",
+  "cv",
+  "tabs",
+  "typograms",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular",
+  "tabler-icons/tabler-icons.scss",
+  "tabler-icons/tabler-icons-filled.scss",
+  "tabler-icons/tabler-icons-outline.scss"
 ;
