@@ -13,6 +13,7 @@ In college I worked as a photographer for the Daily Trojan (and even served brie
 
 ### Florence + the Machine at the Hollywood Bowl
 ![Florence + the Machine]({{ site.baseurl }}/assets/img/flo/img-2.jpg){:class="img-responsive"}
+![Florence + the Machine]({{ site.baseurl }}/assets/img/flo/img-0232.jpg){:class="img-responsive"}
 
 We were *literally* between a crucifix and the Hollywood sign! Such a fitting venue for this special concert. Fun fact - I ran into Emma Watson at this one! I was waiting at will call for my time to head out and she came in with a date to pick up her ticket. 
 
