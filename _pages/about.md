@@ -22,4 +22,4 @@ On my [GitHub](https://github.com/zrcjessica), you can find some pipelines for a
 
 I speak English, Mandarin and German. 
 
-Refer to my [Google Scholar](https://scholar.google.com/citations?user=62d3mywAAAAJ) for my publications. You can also check out my [resume](https://drive.google.com/file/d/1WgdL_q6kKhzq_XmDYq5G3Z2gku_9XKIa/view?usp=sharing), or view my [CV](https://zrcjessica.github.io/assets/pdf/CV_Zhou_Jessica.pdf) for more details.
+Refer to my [Google Scholar](https://scholar.google.com/citations?user=62d3mywAAAAJ) for my publications. You can view my CV [here](https://zrcjessica.github.io/assets/pdf/CV_Zhou_Jessica.pdf).
